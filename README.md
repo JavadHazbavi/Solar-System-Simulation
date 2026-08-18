@@ -4,11 +4,6 @@ An interactive visualization of the Solar System built with **Python, NumPy, and
 
 The simulation models the orbital motion of the eight planets using elliptical orbits and **Kepler's equation**, then visualizes their movement in a real-time animation.
 
-## Preview
-
-<p align="center">
-  <img src="assets/solar-system.gif" alt="Solar System Simulation" width="650">
-</p>
 
 ## Features
 
