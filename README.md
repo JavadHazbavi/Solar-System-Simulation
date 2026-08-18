@@ -117,6 +117,8 @@ This project combines several concepts from physics and programming:
 * Vectorized NumPy calculations
 * Scientific visualization
 * Real-time animation with Matplotlib
+## Image of simulation
+<img width="1536" height="760" alt="Figure_1" src="https://github.com/user-attachments/assets/688ce230-2ecf-4f62-b033-637f33a98508" />
 
 ## License
 
